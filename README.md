@@ -1,7 +1,9 @@
 💹 Conversor e Histórico de Moedas
+
 Uma interface financeira moderna construída com Python e Streamlit que permite realizar conversões diretas e acompanhar a variação histórica de moedas em tempo real.
 
 🚀 Funcionalidades
+
 Conversão em Tempo Real: Converte valores entre as principais moedas (BRL, USD, EUR, GBP, JPY, BTC) utilizando dados atualizados da AwesomeAPI.
 
 Visualização Histórica: Gráficos interativos que mostram a variação das moedas nos últimos dias (configurável pelo usuário).
